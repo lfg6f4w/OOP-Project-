@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1671548592 source:d:\project one\library\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"Users.h"
+	"Book.h"
+	"UsersList.h"
+	"BooksList.h"
+
+1671537932 d:\project one\library\users.h
+	<bits/stdc++.h>
+
+1671540239 source:d:\project one\library\usersource.cpp
+	"Users.h"
+
+1671047618 d:\project one\library\book.h
+	"Users.h"
+
+1671541713 source:d:\project one\library\booksource.cpp
+	"Book.h"
+
+1671548467 source:d:\project one\library\bookslist.cpp
+	"BooksList.h"
+
+1671391927 d:\project one\library\userslist.h
+	"Users.h"
+
+1671391933 source:d:\project one\library\userslist.cpp
+	"UsersList.h"
+
+1671391942 d:\project one\library\bookslist.h
+	"Book.h"
+
